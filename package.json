@@ -1,0 +1,23 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "An express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckibetrono/heynode.git"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "Kibet Rono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckibetrono/heynode/issues"
+  },
+  "homepage": "https://github.com/ckibetrono/heynode#readme"
+}
